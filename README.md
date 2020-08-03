@@ -35,3 +35,6 @@ ZG Soluções | Automação do Ciclo de Recebíveis Hospitalar | [Clique Aqui](h
 Máxima Tech | Soluções para Atacadistas | [Clique Aqui](https://www.linkedin.com/company/maximatechbr/) | [https://maximatech.com.br/trabalhe-conosco/](https://maximatech.com.br/trabalhe-conosco/)
 SIAGRI | Gestão de Agronegócio | [Clique Aqui](https://www.linkedin.com/company/siagri/) | [https://www.siagri.com.br/carreira](https://www.siagri.com.br/carreira)
 Conexa Labs | Hub de Inovação para Agronegócio | [Clique Aqui](https://www.linkedin.com/company/hubconexa/) | [https://hubconexa.com/conecte-se-tambem/](https://hubconexa.com/conecte-se-tambem/)
+Grupo ITSS | Soluções SAP & Fábrica de Software | [Clique Aqui](https://www.linkedin.com/company/itsstecnologia/) | [https://jobs.solides.com/grupoitss](https://jobs.solides.com/grupoitss)
+TOTVS | ERPs e Soluções diversas | [Clique Aqui](https://www.linkedin.com/company/totvs/) | [https://www.totvs.com/trabalhe-conosco/](https://www.totvs.com/trabalhe-conosco/)
+Americas Health | Soluções em Saúde | [Clique Aqui](https://www.linkedin.com/company/americas-health/) | [https://americashealth.gupy.io/](https://americashealth.gupy.io/)
