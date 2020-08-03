@@ -28,3 +28,5 @@ Se sua empresa ou de seu interesse não se encontra aqui, solicite uma inserçã
 Nome da Empresa | Sub-área de Atuação | LinkedIn | Fonte de Vagas
 --- | --- | --- | ---
 Soluti Digital | Certificados Digitais | [Clique aqui](https://www.linkedin.com/company/solutidigital/) | [euquerosersoluti.com.br](#euquerosersoluti.com.br)
+Auvo | Gestão de Equipes | [Clique Aqui](https://www.linkedin.com/company/auvo-tecnologia/) | [auvo.com/trabalhe-conosco](https://www.auvo.com/trabalhe-conosco)
+Nectar | Software CRM | [Clique Aqui](https://www.linkedin.com/company/nectarcrm/) | [https://jobs.kenoby.com/nectarcrm/](https://jobs.kenoby.com/nectarcrm/)
