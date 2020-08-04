@@ -38,3 +38,4 @@ Conexa Labs | Hub de Inovação para Agronegócio | [Clique Aqui](https://www.li
 Grupo ITSS | Soluções SAP & Fábrica de Software | [Clique Aqui](https://www.linkedin.com/company/itsstecnologia/) | [https://jobs.solides.com/grupoitss](https://jobs.solides.com/grupoitss)
 TOTVS | ERPs e Soluções diversas | [Clique Aqui](https://www.linkedin.com/company/totvs/) | [https://www.totvs.com/trabalhe-conosco/](https://www.totvs.com/trabalhe-conosco/)
 Americas Health | Soluções em Saúde | [Clique Aqui](https://www.linkedin.com/company/americas-health/) | [https://americashealth.gupy.io/](https://americashealth.gupy.io/)
+Cilia Tecnologia LTDA | Soluções em Orçamentação | [Clique Aqui](https://www.linkedin.com/company/cilia/) | [oportunidades@cilia.com.br](oportunidades@cilia.com.br)
