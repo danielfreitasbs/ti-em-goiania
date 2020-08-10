@@ -39,3 +39,9 @@ Grupo ITSS | Soluções SAP & Fábrica de Software | [Clique Aqui](https://www.l
 TOTVS | ERPs e Soluções diversas | [Clique Aqui](https://www.linkedin.com/company/totvs/) | [https://www.totvs.com/trabalhe-conosco/](https://www.totvs.com/trabalhe-conosco/)
 Americas Health | Soluções em Saúde | [Clique Aqui](https://www.linkedin.com/company/americas-health/) | [https://americashealth.gupy.io/](https://americashealth.gupy.io/)
 Cilia Tecnologia LTDA | Soluções em Orçamentação | [Clique Aqui](https://www.linkedin.com/company/cilia/) | [oportunidades@cilia.com.br](oportunidades@cilia.com.br)
+Supera Inovação em Tecnologia | Software House | [Clique Aqui](https://www.linkedin.com/company/supera-tecnologia/) | [https://curriculo.supera.com.br/curriculo](https://curriculo.supera.com.br/curriculo)
+Oobjs - Tecnologia e Inovação em Gestão Fiscal | Gestão Fiscal | [Clique Aqui](https://www.linkedin.com/company/oobj-tecnologia-da-informacao/) | [https://www.oobj.com.br/institucional/trabalhe-conosco](https://www.oobj.com.br/institucional/trabalhe-conosco)
+Asert - Serviços e Tecnologia da Informação | Gestão de Saúde, Outsourcing e Desenvolvimento de Software | [Clique Aqui](https://www.linkedin.com/company/asert-serviços-e-tecnologia-da-informação/) | [http://asert.com.br/trabalhe-conosco/](http://asert.com.br/trabalhe-conosco/)
+Actuar | Sistema Gestão de Academias | [Clique Aqui](https://www.linkedin.com/company/actuar-sistemas/) | [https://www.linkedin.com/company/actuar-sistemas/jobs/](https://www.linkedin.com/company/actuar-sistemas/jobs/)
+Dataeasy Gestão de Conteúdo Empresarial | Fábrica de Software | [Clique Aqui](https://www.linkedin.com/company/dataeasy/) | [Clique Aqui](https://www.linkedin.com/company/dataeasy/jobs/)
+
