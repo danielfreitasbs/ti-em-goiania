@@ -54,4 +54,4 @@ Isthmus | Soluções para Vendas Online | [Clique Aqui](https://www.linkedin.com
 
 Nome da Empresa | Sub-área de Atuação | LinkedIn | Fonte de Vagas
 --- | --- | --- | ---
-Progete | Gestão de Negócios | [Clique Aqui](https://www.linkedin.com/company/progete/) | [contato@progete.com.br](mail:contato@progete.com.br)
+Progete | Gestão de Negócios | [Clique Aqui](https://www.linkedin.com/company/progete/) | [contato@progete.com.br](contato@progete.com.br)
