@@ -41,17 +41,17 @@ Americas Health | Soluções em Saúde | [Clique Aqui](https://www.linkedin.com/
 Cilia Tecnologia LTDA | Soluções em Orçamentação | [Clique Aqui](https://www.linkedin.com/company/cilia/) | [oportunidades@cilia.com.br](oportunidades@cilia.com.br)
 Supera Inovação em Tecnologia | Software House | [Clique Aqui](https://www.linkedin.com/company/supera-tecnologia/) | [https://curriculo.supera.com.br/curriculo](https://curriculo.supera.com.br/curriculo)
 Oobjs - Tecnologia e Inovação em Gestão Fiscal | Gestão Fiscal | [Clique Aqui](https://www.linkedin.com/company/oobj-tecnologia-da-informacao/) | [https://www.oobj.com.br/institucional/trabalhe-conosco](https://www.oobj.com.br/institucional/trabalhe-conosco)
-Asert - Serviços e Tecnologia da Informação | Gestão de Saúde, Outsourcing e Desenvolvimento de Software | [https://www.linkedin.com/company/asert-serviços-e-tecnologia-da-informação/](https://www.linkedin.com/company/asert-serviços-e-tecnologia-da-informação/) | [Clique Aqui](http://asert.com.br/trabalhe-conosco/)
-Actuar | Sistema Gestão de Academias | [https://www.linkedin.com/company/actuar-sistemas/](https://www.linkedin.com/company/actuar-sistemas/) | [Clique Aqui](https://www.linkedin.com/company/actuar-sistemas/jobs/)
-Dataeasy Gestão de Conteúdo Empresarial | Fábrica de Software | [https://www.linkedin.com/company/dataeasy/](https://www.linkedin.com/company/dataeasy/) | [Clique Aqui](https://www.linkedin.com/company/dataeasy/jobs/)
-Megasoft | Gestão Pública | [https://www.linkedin.com/company/megasoft-inform-tica/](https://www.linkedin.com/company/megasoft-inform-tica/) | [Clique Aqui](https://www.megasoft.com.br/trabalhe-conosco)
-SaibWeb Tecnologia | SaaS de Gestão | [https://www.linkedin.com/company/saibwebtecnologia/](https://www.linkedin.com/company/saibwebtecnologia/) | [Clique Aqui](https://www.linkedin.com/company/saibwebtecnologia/jobs/)
-Centi Soluções | Sistema de Gestão | [https://www.linkedin.com/company/centi-soluções/](https://www.linkedin.com/company/centi-soluções/) | [Clique Aqui](https://www.centi.com.br/portal/contato/)
-Siedos - Sistemas e Resultados | Gestão Pública | [https://www.linkedin.com/company/siedos---sistemas-e-resultados/](https://www.linkedin.com/company/siedos---sistemas-e-resultados/) | [Clique Aqui](https://www.linkedin.com/company/siedos---sistemas-e-resultados/jobs/)
-Isthmus | Soluções para Vendas Online | [https://www.linkedin.com/company/isthmus-sistemas/](https://www.linkedin.com/company/isthmus-sistemas/) | [Clique Aqui](https://www.linkedin.com/company/isthmus-sistemas/jobs/)
+Asert - Serviços e Tecnologia da Informação | Gestão de Saúde, Outsourcing e Desenvolvimento de Software | [Clique Aqui](https://www.linkedin.com/company/asert-serviços-e-tecnologia-da-informação/) | [http://asert.com.br/trabalhe-conosco/](http://asert.com.br/trabalhe-conosco/)
+Actuar | Sistema Gestão de Academias | [Clique Aqui](https://www.linkedin.com/company/actuar-sistemas/) | [https://www.linkedin.com/company/actuar-sistemas/jobs/](https://www.linkedin.com/company/actuar-sistemas/jobs/)
+Dataeasy Gestão de Conteúdo Empresarial | Fábrica de Software | [Clique Aqui](https://www.linkedin.com/company/dataeasy/) | [https://www.linkedin.com/company/dataeasy/jobs/](https://www.linkedin.com/company/dataeasy/jobs/)
+Megasoft | Gestão Pública | [Clique Aqui](https://www.linkedin.com/company/megasoft-inform-tica/) | [https://www.megasoft.com.br/trabalhe-conosco](https://www.megasoft.com.br/trabalhe-conosco)
+SaibWeb Tecnologia | SaaS de Gestão | [Clique Aqui](https://www.linkedin.com/company/saibwebtecnologia/) | [https://www.linkedin.com/company/saibwebtecnologia/jobs/](https://www.linkedin.com/company/saibwebtecnologia/jobs/)
+Centi Soluções | Sistema de Gestão | [Clique Aqui](https://www.linkedin.com/company/centi-soluções/) | [https://www.centi.com.br/portal/contato/](https://www.centi.com.br/portal/contato/)
+Siedos - Sistemas e Resultados | Gestão Pública | [Clique Aqui](https://www.linkedin.com/company/siedos---sistemas-e-resultados/) | [https://www.linkedin.com/company/siedos---sistemas-e-resultados/jobs/](https://www.linkedin.com/company/siedos---sistemas-e-resultados/jobs/)
+Isthmus | Soluções para Vendas Online | [Clique Aqui](https://www.linkedin.com/company/isthmus-sistemas/) | [https://www.linkedin.com/company/isthmus-sistemas/jobs/](https://www.linkedin.com/company/isthmus-sistemas/jobs/)
 
 ### Empresas - Anápolis
 
 Nome da Empresa | Sub-área de Atuação | LinkedIn | Fonte de Vagas
 --- | --- | --- | ---
-Progete | Gestão de Negócios | [https://www.linkedin.com/company/progete/](https://www.linkedin.com/company/progete/) | [Clique Aqui](mail:contato@progete.com.br)
+Progete | Gestão de Negócios | [Clique Aqui](https://www.linkedin.com/company/progete/) | [mail:contato@progete.com.br](mail:contato@progete.com.br)
