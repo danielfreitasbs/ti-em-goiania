@@ -33,7 +33,7 @@ Nectar | Software CRM | [Clique Aqui](https://www.linkedin.com/company/nectarcrm
 LG - Lugar de Gente | Gestão de RH | [Clique Aqui](https://www.linkedin.com/company/lglugardegente/) | [https://www.lg.com.br/trabalhe-na-lg](https://www.lg.com.br/trabalhe-na-lg)
 ZG Soluções | Automação do Ciclo de Recebíveis Hospitalar | [Clique Aqui](https://www.linkedin.com/company/zg-solucoes/) | [https://materiais.zgsolucoes.com.br/zgteam](https://materiais.zgsolucoes.com.br/zgteam)
 Máxima Tech | Soluções para Atacadistas | [Clique Aqui](https://www.linkedin.com/company/maximatechbr/) | [https://maximatech.com.br/trabalhe-conosco/](https://maximatech.com.br/trabalhe-conosco/)
-SIAGRI | Gestão de Agronegócio | [Clique Aqui](https://www.linkedin.com/company/siagri/) | [https://www.siagri.com.br/carreira](https://www.siagri.com.br/carreira)
+Grupo SIAGRI | Gestão de Agronegócio | [Clique Aqui](https://www.linkedin.com/company/siagri/) | [https://www.siagri.com.br/seja-siagri](https://www.siagri.com.br/seja-siagri)
 Conexa Labs | Hub de Inovação para Agronegócio | [Clique Aqui](https://www.linkedin.com/company/hubconexa/) | [https://hubconexa.com/conecte-se-tambem/](https://hubconexa.com/conecte-se-tambem/)
 Grupo ITSS | Soluções SAP & Fábrica de Software | [Clique Aqui](https://www.linkedin.com/company/itsstecnologia/) | [https://jobs.solides.com/grupoitss](https://jobs.solides.com/grupoitss)
 TOTVS | ERPs e Soluções diversas | [Clique Aqui](https://www.linkedin.com/company/totvs/) | [https://www.totvs.com/trabalhe-conosco/](https://www.totvs.com/trabalhe-conosco/)
