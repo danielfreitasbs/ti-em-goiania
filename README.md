@@ -51,6 +51,8 @@ Siedos - Sistemas e Resultados | Gestão Pública | [Clique Aqui](https://www.li
 Isthmus | Soluções para Vendas Online | [Clique Aqui](https://www.linkedin.com/company/isthmus-sistemas/) | [https://www.linkedin.com/company/isthmus-sistemas/jobs/](https://www.linkedin.com/company/isthmus-sistemas/jobs/)
 C&S Sistemas | Soluções em gestão empresarial | [Clique Aqui](https://www.linkedin.com/company/c&s-sistemas-e-consultorias-ltda/?originalSubdomain=pt) | [https://www.cessistemas.com.br/trabalhe-conosco](https://www.cessistemas.com.br/trabalhe-conosco/)
 EasyCrédito | Buscador de Empréstimo Pessoal | [Clique Aqui](https://www.linkedin.com/company/easycredito/) | [https://jobs.kenoby.com/easycredito](https://jobs.kenoby.com/easycredito)
+Escolar Manager | Software para Gestão Escolar | [Clique Aqui](https://www.linkedin.com/in/escolar-manager-077884127/) | [vagas@escolarmanager.com.br](vagas@escolarmanager.com.br)
+EVTEK Sistemas | Fábrica de Software | [Clique Aqui](https://www.linkedin.com/company/evtek-softwares/) | [vagas@grupoevpar.com.br](vagas@grupoevpar.com.br)
 
 ### Empresas - Anápolis
 
