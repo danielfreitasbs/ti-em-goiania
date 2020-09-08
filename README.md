@@ -50,6 +50,7 @@ Centi Soluções | Sistema de Gestão | [Clique Aqui](https://www.linkedin.com/c
 Siedos - Sistemas e Resultados | Gestão Pública | [Clique Aqui](https://www.linkedin.com/company/siedos---sistemas-e-resultados/) | [https://www.linkedin.com/company/siedos---sistemas-e-resultados/jobs/](https://www.linkedin.com/company/siedos---sistemas-e-resultados/jobs/)
 Isthmus | Soluções para Vendas Online | [Clique Aqui](https://www.linkedin.com/company/isthmus-sistemas/) | [https://www.linkedin.com/company/isthmus-sistemas/jobs/](https://www.linkedin.com/company/isthmus-sistemas/jobs/)
 C&S Sistemas | Soluções em gestão empresarial | [Clique Aqui](https://www.linkedin.com/company/c&s-sistemas-e-consultorias-ltda/?originalSubdomain=pt) | [https://www.cessistemas.com.br/trabalhe-conosco](https://www.cessistemas.com.br/trabalhe-conosco/)
+EasyCrédito | Buscador de Empréstimo Pessoal | [Clique Aqui](https://www.linkedin.com/company/easycredito/) | (https://jobs.kenoby.com/easycredito)[https://jobs.kenoby.com/easycredito]
 
 ### Empresas - Anápolis
 
