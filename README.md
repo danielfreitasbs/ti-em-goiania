@@ -55,7 +55,7 @@ Escolar Manager | Software para Gestão Escolar | [Clique Aqui](https://www.link
 EVTEK Sistemas | Fábrica de Software | [Clique Aqui](https://www.linkedin.com/company/evtek-softwares/) | [vagas@grupoevpar.com.br](vagas@grupoevpar.com.br)
 CQuant | Gestão de dados e Inteligência Computacional | [Clique Aqui](https://www.linkedin.com/company/cquantt/) | [https://www.linkedin.com/company/cquantt/jobs/](https://www.linkedin.com/company/cquantt/jobs/)
 Bento Tecnologia | Fábrica de Software | [Clique Aqui](https://www.linkedin.com/company/bento-tecnologia/) | [bentotecnologia@outlook.com](bentotecnologia@outlook.com)
-
+Blue Tecnologia | Soluções Financeiras e Imobiliárias | [Clique Aqui](https://www.linkedin.com/company/bluetecnologia) | [rh@blueinv.com.br](rh@blueinv.com.br)
 ### Empresas - Anápolis
 
 Nome da Empresa | Sub-área de Atuação | LinkedIn | Fonte de Vagas
