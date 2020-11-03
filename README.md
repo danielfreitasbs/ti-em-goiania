@@ -56,6 +56,8 @@ EVTEK Sistemas | Fábrica de Software | [Clique Aqui](https://www.linkedin.com/c
 CQuant | Gestão de dados e Inteligência Computacional | [Clique Aqui](https://www.linkedin.com/company/cquantt/) | [https://www.linkedin.com/company/cquantt/jobs/](https://www.linkedin.com/company/cquantt/jobs/)
 Bento Tecnologia | Fábrica de Software | [Clique Aqui](https://www.linkedin.com/company/bento-tecnologia/) | [bentotecnologia@outlook.com](bentotecnologia@outlook.com)
 Blue Tecnologia | Soluções Financeiras e Imobiliárias | [Clique Aqui](https://www.linkedin.com/company/bluetecnologia) | [rh@blueinv.com.br](rh@blueinv.com.br)
+Polichat | Soluções em Comunicação | [Clique Aqui](www.linkedin.com/company/polichat) | [Contato via WhatsApp](https://wa.me/5562999800123?text=Quero%20fazer%20parte%20do%20time)
+Pacto Soluções | Soluções em Gestão | [Clique Aqui](https://www.linkedin.com/company/pacto-solucoes) | [https://sistemapacto.com.br/pages/vagas](https://sistemapacto.com.br/pages/vagas)
 ### Empresas - Anápolis
 
 Nome da Empresa | Sub-área de Atuação | LinkedIn | Fonte de Vagas
