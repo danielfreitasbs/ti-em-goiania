@@ -58,6 +58,10 @@ Bento Tecnologia | Fábrica de Software | [Clique Aqui](https://www.linkedin.com
 Blue Tecnologia | Soluções Financeiras e Imobiliárias | [Clique Aqui](https://www.linkedin.com/company/bluetecnologia) | [rh@blueinv.com.br](rh@blueinv.com.br)
 Polichat | Soluções em Comunicação | [Clique Aqui](www.linkedin.com/company/polichat) | [Contato via WhatsApp](https://wa.me/5562999800123?text=Quero%20fazer%20parte%20do%20time)
 Pacto Soluções | Soluções em Gestão | [Clique Aqui](https://www.linkedin.com/company/pacto-solucoes) | [https://sistemapacto.com.br/pages/vagas](https://sistemapacto.com.br/pages/vagas)
+Stayapp | Vendas | [Clique Aqui](https://www.linkedin.com/company/stayapp) | [https://www.linkedin.com/company/stayapp/jobs/](https://www.linkedin.com/company/stayapp/jobs/)
+Siacon | Agronegócio | [Clique Aqui](https://www.linkedin.com/company/siacon/) | [https://www.linkedin.com/company/siacon/jobs/](https://www.linkedin.com/company/siacon/jobs/)
+HD Tecnologia | Gestão Empresarial | [Clique Aqui](https://www.linkedin.com/company/hd-tecnologia-em-informa-es/) | [https://www.linkedin.com/company/hd-tecnologia-em-informa-es/jobs/](https://www.linkedin.com/company/hd-tecnologia-em-informa-es/jobs/)
+
 ### Empresas - Anápolis
 
 Nome da Empresa | Sub-área de Atuação | LinkedIn | Fonte de Vagas
