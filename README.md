@@ -26,7 +26,7 @@ Se sua empresa ou de seu interesse não se encontra aqui, solicite uma inserçã
 ### <a name="empresas"></a>Empresas - Goiânia e Região Metropolitana
 
 Nome da Empresa | Sub-área de Atuação | LinkedIn | Fonte de Vagas | Glassdoor
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 Soluti Digital | Certificados Digitais | [Clique aqui](https://www.linkedin.com/company/solutidigital/) | [euquerosersoluti.com.br](euquerosersoluti.com.br) | [Abrir](https://glassdoor.com.br/Avaliações/Soluti-Certificação-Digital-Avaliações-E2484953.htm)
 Auvo | Gestão de Equipes | [Clique Aqui](https://www.linkedin.com/company/auvo-tecnologia/) | [auvo.com/trabalhe-conosco](https://www.auvo.com/trabalhe-conosco) | [Abrir](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Auvo-Tecnologia-Avalia%C3%A7%C3%B5es-E2801273.htm)
 Nectar | Software CRM | [Clique Aqui](https://www.linkedin.com/company/nectarcrm/) | [https://jobs.kenoby.com/nectarcrm/](https://jobs.kenoby.com/nectarcrm/) | [Abrir](https://www.glassdoor.com.br/Avalia%C3%A7%C3%B5es/Nectar-CRM-Avalia%C3%A7%C3%B5es-E2783641.htm)
